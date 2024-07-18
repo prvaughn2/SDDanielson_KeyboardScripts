@@ -15,4 +15,13 @@ Bottom Left Key : CRTL + ALT + L_SHIFT + Z
 Additional Note: 
 Press and Hold Bottom Right Key : Alt + F4
 
+I am naming the kerys #1 -> #12 starting with the top left
+
 My idea is to shortcut key the python scripts to the hot key sequences above (R_Click > Properties > Shortcut Key). 
+
+
+TODOs:
+1. get pics from Andy and copy button 1 to other views
+2. use code for button 12 as basis for copy fucntion to local drive
+Maybe write a save function?
+3. write an init bat file to make shortcuts for the button on the desktop, duplicate the file on C drive maybe?
